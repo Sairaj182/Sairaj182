@@ -2,7 +2,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sairaj182&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj182&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ```>> sudo sairaj@backend-engineer```
+## ```>> sudo sairaj@backend-engineer```:
 
 - Backend Engineer : Building scalable, production-style backend systems using, Next.js, Express.js, Docker, and cloud platforms : AWS & Railway.
 
@@ -10,10 +10,10 @@
 
 - Learning Data Structures & Algorithms, system design, and distributed systems to build backend services that can scale like real-world platforms.
 
-## ```>> iwctl```
+## ```>> iwctl```:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sairajraithatha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairaj-raithatha-134787312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sairajraithatha.official@gmail.com) 
 
-## ```>> cat tech-stack.txt```
+## ```>> cat tech-stack.txt```:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
