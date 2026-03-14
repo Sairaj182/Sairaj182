@@ -1,26 +1,77 @@
-# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sairaj182&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sairaj182&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj182&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# About Me:
-- Currently working on:
-Backend engineering projects using Flask, Next.js APIs, Docker, Redis, and cloud deployments (AWS, Railway). Focused on building secure, scalable, and production-ready backend services, including authentication systems, rate limiting, API design, and containerized deployments.
+## $ ssh sairaj@github
 
-- Looking to collaborate on:
-Open-source backend systems, developer infrastructure tools, API frameworks, and scalable web applications that involve distributed systems, cloud architecture, and modern backend technologies.
 
-- Looking for help with:
-Advanced system design concepts, distributed systems architecture, large-scale backend infrastructure, and performance optimization techniques used in real-world production systems.
+Authenticating with public key...
+Access granted.
 
-- Currently learning:
-Data Structures & Algorithms, backend architecture patterns, Docker-based deployments, cloud infrastructure (AWS), and best practices for building high-performance backend services.
+---
 
-- Ask me about:
-Backend development, REST APIs, Next.js API routes, Flask applications, Docker containerization, rate limiting, backend security, and cloud deployments.
+User: Sairaj
+Role: Backend Developer
 
-- Fun fact:
-I enjoy building backend systems and treating them like real production services, focusing on scalability, security, performance optimization, and clean architecture.
+$ cat currently_working_on.txt
+Backend engineering projects using:
+
+- Flask
+- Next.js API routes
+- Docker containerization
+- Redis
+- Cloud deployments (AWS, Railway)
+
+Focus:
+Building secure, scalable, production-ready backend services.
+Includes authentication systems, rate limiting, API design,
+and containerized deployments.
+
+$ cat collaboration.txt
+Interested in collaborating on:
+
+- Open-source backend systems
+- Developer infrastructure tools
+- API frameworks
+- Scalable web applications
+- Projects involving distributed systems and cloud architecture
+
+$ cat help_needed.txt
+Looking for guidance in:
+
+- Advanced system design
+- Distributed systems architecture
+- Large-scale backend infrastructure
+- Performance optimization in production systems
+
+$ cat learning.txt
+Currently learning:
+
+- Data Structures & Algorithms
+- Backend architecture patterns
+- Docker-based deployments
+- Cloud infrastructure (AWS)
+- High-performance backend engineering practices
+
+$ cat ask_me_about.txt
+Topics I enjoy discussing:
+
+- Backend development
+- REST APIs
+- Next.js API routes
+- Flask applications
+- Docker containerization
+- Rate limiting
+- Backend security
+- Cloud deployments
+
+$ cat fun_fact.txt
+I enjoy building backend systems and treating them like
+real production services — focusing on scalability,
+security, performance optimization, and clean architecture.
+
+$ exit
+Connection to sairaj closed.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sairajraithatha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairaj-raithatha-134787312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sairajraithatha.official@gmail.com) 
