@@ -2,81 +2,84 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sairaj182&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj182&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 💻 Developer Terminal
+
+```bash
+# Connect to my developer profile
 sairaj@github:~$ ssh sairaj@github
 
-Authenticating with public key...
-Access granted.
+echo "Authenticating with public key..."
+echo "Access granted."
 
-┌──────────────────────────────────────────────┐
-│ User      : Sairaj                           │
-│ Role      : Backend Developer                │
-│ Location  : India                            │
-└──────────────────────────────────────────────┘
+printf "\nUser      : Sairaj\n"
+printf "Role      : Backend Developer\n"
+printf "Location  : India\n\n"
 
 
+# What I'm currently working on
 sairaj@github:~$ cat currently_working_on.txt
 
 Backend engineering projects using:
-• Flask
-• Next.js API routes
-• Docker containerization
-• Redis
-• Cloud deployments (AWS, Railway)
+- Flask
+- Next.js API routes
+- Docker containerization
+- Redis
+- Cloud deployments (AWS, Railway)
 
 Focus:
 Building secure, scalable production-ready backend services
-with authentication, rate limiting, API design,
+with authentication systems, rate limiting, API design,
 and containerized deployments.
 
 
+# Collaboration interests
 sairaj@github:~$ cat collaboration.txt
 
-Looking to collaborate on:
-• Open-source backend systems
-• Developer infrastructure tools
-• API frameworks
-• Scalable web applications
-• Distributed systems & cloud architecture
+Open-source backend systems
+Developer infrastructure tools
+API frameworks
+Scalable web applications
+Distributed systems & cloud architecture
 
 
+# Areas where I'm seeking guidance
 sairaj@github:~$ cat help_needed.txt
 
-Seeking guidance in:
-• Advanced system design
-• Distributed systems architecture
-• Large-scale backend infrastructure
-• Performance optimization in production systems
+Advanced system design
+Distributed systems architecture
+Large-scale backend infrastructure
+Performance optimization in production systems
 
 
-sairaj@github:~$ cat currently_learning.txt
+# What I'm currently learning
+sairaj@github:~$ cat learning.txt
 
-• Data Structures & Algorithms
-• Backend architecture patterns
-• Docker-based deployments
-• Cloud infrastructure (AWS)
-• High-performance backend engineering
+Data Structures & Algorithms
+Backend architecture patterns
+Docker-based deployments
+Cloud infrastructure (AWS)
+High-performance backend engineering
 
 
+# Topics you can ask me about
 sairaj@github:~$ cat ask_me_about.txt
 
-• Backend development
-• REST APIs
-• Next.js API routes
-• Flask applications
-• Docker containerization
-• Rate limiting
-• Backend security
-• Cloud deployments
+Backend development
+REST APIs
+Next.js API routes
+Flask applications
+Docker containerization
+Rate limiting
+Backend security
+Cloud deployments
 
 
-sairaj@github:~$ cat fun_fact.txt
-
-I enjoy building backend systems and treating them
-like real production services — focusing on scalability,
-security, performance optimization, and clean architecture.
+# Fun fact
+sairaj@github:~$ echo "I enjoy building backend systems like real production services — focusing on scalability, security, and clean architecture."
 
 
 sairaj@github:~$ exit
+logout
 Connection to github closed.
 
 ## Socials:
