@@ -4,13 +4,23 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj182&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # About Me:
-- I’m currently working on<br>Backend projects using Flask, Next.js APIs, Docker, and cloud deployments (AWS/Railway).
-- I’m looking to collaborate on<br>Open-source backend systems, developer tools, and scalable web applications.
-- I’m looking for help with<br>System design, distributed systems, and large-scale backend architecture.
-- I’m currently learning<br>Data Structures & Algorithms, Backend Development, Docker, and Cloud (AWS).
-- Ask me about<br>Backend development, Next.js APIs, Flask, Docker, and deployment.
-- Fun fact<br>I enjoy building backend systems and optimizing them like real production services.
+- Currently working on:
+Backend engineering projects using Flask, Next.js APIs, Docker, Redis, and cloud deployments (AWS, Railway). Focused on building secure, scalable, and production-ready backend services, including authentication systems, rate limiting, API design, and containerized deployments.
 
+- Looking to collaborate on:
+Open-source backend systems, developer infrastructure tools, API frameworks, and scalable web applications that involve distributed systems, cloud architecture, and modern backend technologies.
+
+- Looking for help with:
+Advanced system design concepts, distributed systems architecture, large-scale backend infrastructure, and performance optimization techniques used in real-world production systems.
+
+- Currently learning:
+Data Structures & Algorithms, backend architecture patterns, Docker-based deployments, cloud infrastructure (AWS), and best practices for building high-performance backend services.
+
+- Ask me about:
+Backend development, REST APIs, Next.js API routes, Flask applications, Docker containerization, rate limiting, backend security, and cloud deployments.
+
+- Fun fact:
+I enjoy building backend systems and treating them like real production services, focusing on scalability, security, performance optimization, and clean architecture.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sairajraithatha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairaj-raithatha-134787312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sairajraithatha.official@gmail.com) 
