@@ -3,9 +3,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj182&show_icons=true&theme=tokyonight&hide_border=true" />
- <p/> <p align="center"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairaj182&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj182&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairaj182&theme=tokyonight&hide_border=true" />
 </p><p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj182&theme=tokyo-night&hide_border=true" />
 </p>
