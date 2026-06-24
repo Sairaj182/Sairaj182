@@ -1,6 +1,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sairaj182&theme=dark&hide_border=false)<br/>
 
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj182&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairaj182&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj182&layout=compact&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj182&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p><p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj182&theme=tokyo-night&hide_border=true" />
+</p>
+
 ## ```>> sudo sairaj@backend-engineer```:
 
 - Backend Engineer : Building scalable, production-style backend systems using, Next.js, Express.js, Docker, and cloud platforms : AWS & Railway.
