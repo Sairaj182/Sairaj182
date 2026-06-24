@@ -1,5 +1,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sairaj182&theme=dark&hide_border=false)<br/>
 
+https://github-readme-stats.vercel.app/api?username=Sairaj182&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj182&layout=compact&theme=tokyonight
+
+https://github-readme-streak-stats.herokuapp.com/?user=Sairaj182&theme=tokyonight
+
+https://github-profile-trophy.vercel.app/?username=Sairaj182&theme=tokyonight
+
+https://github-readme-activity-graph.vercel.app/graph?username=Sairaj182&theme=tokyo-night
+
 ## ```>> sudo sairaj@backend-engineer```:
 
 - Backend Engineer : Building scalable, production-style backend systems using, Next.js, Express.js, Docker, and cloud platforms : AWS & Railway.
